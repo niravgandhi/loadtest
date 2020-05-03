@@ -1,0 +1,4 @@
+ARG GOLANG_VERSION
+FROM golang:1.14
+
+RUN ls
